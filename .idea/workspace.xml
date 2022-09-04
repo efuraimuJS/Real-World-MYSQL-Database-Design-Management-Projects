@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="078d4712-eeb7-47b5-b398-897a60866219" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2EIhwTnIC1vadB6oUTk6aQFlbk0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="897" width="810" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1662290004325">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state x="67" y="897" width="810" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.35.1198.1743@0.35.1198.1743" timestamp="1662290004325" />
+    <state x="315" y="1039" width="624" height="405" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1662298531957">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state x="315" y="1039" width="624" height="405" key="#com.intellij.fileTypes.FileTypeChooser/0.35.1198.1743@0.35.1198.1743" timestamp="1662298531957" />
+    <state x="392" y="997" width="434" height="490" key="FileChooserDialogImpl" timestamp="1662303973817">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state x="392" y="997" width="434" height="490" key="FileChooserDialogImpl/0.35.1198.1743@0.35.1198.1743" timestamp="1662303973817" />
+    <state x="98" y="874" width="1022" height="736" key="SettingsEditor" timestamp="1662298048748">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state x="98" y="874" width="1022" height="736" key="SettingsEditor/0.35.1198.1743@0.35.1198.1743" timestamp="1662298048748" />
+  </component>
+</project>
