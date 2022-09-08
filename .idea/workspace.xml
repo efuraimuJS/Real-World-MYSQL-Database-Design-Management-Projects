@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078d4712-eeb7-47b5-b398-897a60866219" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/components/connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/components/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/components/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/components/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/css/signup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/dashboard.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/display_user.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/js/signup_validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/otp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/PHPMailerAutoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/class.phpmailer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/class.smtp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/signup.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/components/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/components/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,12 +44,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662632240432</updated>
-      <workItem from="1662632332685" duration="1439000" />
+      <workItem from="1662632332685" duration="4742000" />
     </task>
+    <task id="LOCAL-00001" summary="milestone: project-1-">
+      <created>1662634730637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662634730638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="milestone: project-1-" />
+    <option name="LAST_COMMIT_MESSAGE" value="milestone: project-1-" />
   </component>
   <component name="WindowStateProjectService">
     <state x="280" y="927" width="810" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1662319148741">
@@ -88,6 +72,10 @@
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
     <state x="315" y="1039" width="624" height="405" key="#com.intellij.fileTypes.FileTypeChooser/0.35.1198.1743@0.35.1198.1743" timestamp="1662298531957" />
+    <state x="30" y="763" width="1137" height="932" key="CommitChangelistDialog2" timestamp="1662634723376">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state x="30" y="763" width="1137" height="932" key="CommitChangelistDialog2/0.35.1198.1743@0.35.1198.1743" timestamp="1662634723376" />
     <state x="392" y="997" width="434" height="490" key="FileChooserDialogImpl" timestamp="1662303973817">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
@@ -112,10 +100,10 @@
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
     <state width="257" height="520" key="HiddenNamespacesPopup/0.35.1198.1743@0.35.1198.1743" timestamp="1662319206589" />
-    <state x="98" y="874" width="1022" height="736" key="SettingsEditor" timestamp="1662320238891">
+    <state x="98" y="874" width="1022" height="736" key="SettingsEditor" timestamp="1662637985224">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
-    <state x="98" y="874" width="1022" height="736" key="SettingsEditor/0.35.1198.1743@0.35.1198.1743" timestamp="1662320238891" />
+    <state x="98" y="874" width="1022" height="736" key="SettingsEditor/0.35.1198.1743@0.35.1198.1743" timestamp="1662637985224" />
     <state x="272" y="958" width="672" height="678" key="search.everywhere.popup" timestamp="1662319355973">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>

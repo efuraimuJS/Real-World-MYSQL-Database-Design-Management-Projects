@@ -47,7 +47,7 @@ include_once('components/header.php');
                     </h5>
 
                     <p class="card-text">Register as new user</p>
-                    <a href="" class="btn btn-primary">Take me there</a>
+                    <a href="signup.php" class="btn btn-primary">Take me there</a>
                 </div>
             </div>
         </div>
