@@ -13,7 +13,6 @@
 
 
 </head>
-<body>
 
 <?php
 $pagename = 'SIGN UP';
@@ -44,12 +43,13 @@ if (isset($_POST['submit'])) {
 
         $sql = "select count(*) from user_data where email = ?";
         $stmt = $conn->prepare($sql);
-        $stmt->execute($_SESSION['email']);
+        $stmt->execute([$_SESSION['email']]);
         $result = $stmt->fetchColumn();
 
         if ($result > 0) {
             $msg = 'User already exists!';
         } else {
+            //Firsttime Registration
             $otp = rand(100000, 999999);
             $_SESSION['otp'] = $otp;
             $result1 = sendOTP($_SESSION['email'], $otp);
@@ -59,19 +59,19 @@ if (isset($_POST['submit'])) {
                 $sql = "select count(*) from registration where email = ?";
                 $stmt = $conn->prepare($sql);
                 $stmt->execute([$_SESSION['email']]);
-                $result2 = $stmt->fetch();
+                $result2 = $stmt->fetchColumn();
 
 
                 if ($result2 > 0) {
                     //update if user has previously sent otp
                     $sql = "update registration set otp=:otp where email =:email";
                     $stmt = $conn->prepare($sql);
-                    $stmt->execute(['otp' => $otp, 'email' => $_SESSION['email']]);
+                    $stmt->execute([':otp' => $otp, ':email' => $_SESSION['email']]);
 
                     echo "<script> alert('OTP sent to your email.');</script>";
                     header("Location: otp.php");
                 } else {
-                    $sql = "insert into registration (otp, emil) values(:otp, :email)";
+                    $sql = "insert into registration (otp, email) values(:otp, :email)";
                     $stmt = $conn->prepare($sql);
                     $stmt->execute(['otp' => $$otp, 'email' => $_SESSION['email']]);
 
@@ -90,6 +90,7 @@ if (isset($_POST['submit'])) {
 
 ?>
 
+<body>
 
 <div><?php
     include 'components/head.html'
@@ -125,7 +126,7 @@ if (isset($_POST['submit'])) {
             <div class="form-group">
 
                 <label for="email">
-                    <span class="req"></span>Eamil Address:
+                    <span class="req"></span>Email Address:
                 </label>
                 <input type="text" class="form-control"
                        name="email" id="email"
@@ -148,11 +149,11 @@ if (isset($_POST['submit'])) {
             <div class="form-group">
 
                 <label for="email">
-                    <span class="req"></span>Eamil Address:
+                    <span class="req"></span>Address:
                 </label>
                 <input type="text" class="form-control"
-                       name="email" id="email"
-                       required placeholder="Your email address"/>
+                       name="address" id="address"
+                       required placeholder="Your home address"/>
                 <div class="status" id="status"></div>
             </div>
 
@@ -160,12 +161,12 @@ if (isset($_POST['submit'])) {
                 <label for="password"><span class="req"></span> Password: </label>
                 <input required type="text" name="password" class="form-control inputpass"
                        minlength="4" maxlength="16" id="pass1"
-                       placeholder="Must be between 4-16 charachters"/>
+                       placeholder="Must be between 4-16 characters"/>
 
                 <label for="confirm_password"><span class="req"></span> Confirm Password: </label>
                 <input required type="password" name="confirm_password" class="form-control inputpass"
                        minlength="4" maxlength="16" placeholder="Re-enter to validate" id="pass2"
-                       onkeyup="checkpass(); return false;"
+                       onkeyup="checkPass(); return false;"
                 />
                 <span id="confirmMessage" class="confirmMessage"></span>
             </div>
@@ -201,7 +202,7 @@ include 'components/footer.html';
         } else {
             pass2.style.backgroundColor = red;
             message.style.color = '#85112e'
-            mesage.innerHTML = 'Passwords do not match!'
+            message.innerHTML = 'Passwords do not match!'
         }
     }
 </script>
