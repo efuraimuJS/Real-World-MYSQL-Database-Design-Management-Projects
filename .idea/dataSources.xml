@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="etbf@localhost" uuid="cdcead52-5a9a-44d7-8429-24a280add55c">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/etbf</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="user_database@localhost" uuid="23bd652b-0d0b-4aed-864b-097790f7207e">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/user_database</jdbc-url>
+    </data-source>
+  </component>
+</project>

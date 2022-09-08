@@ -1,30 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="078d4712-eeb7-47b5-b398-897a60866219" name="Default Changelist" comment="" />
+    <list default="true" id="078d4712-eeb7-47b5-b398-897a60866219" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/components/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/components/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/components/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/components/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/css/signup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/display_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/js/signup_validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/otp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/PHPMailerAutoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/class.phpmailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/class.smtp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2EIhwTnIC1vadB6oUTk6aQFlbk0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DBE.Init.BalloonShown" value="true" />
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="078d4712-eeb7-47b5-b398-897a60866219" name="Default Changelist" comment="" />
+      <created>1662632240432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662632240432</updated>
+      <workItem from="1662632332685" duration="1439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="67" y="897" width="810" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1662290004325">
+    <state x="280" y="927" width="810" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1662319148741">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
-    <state x="67" y="897" width="810" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.35.1198.1743@0.35.1198.1743" timestamp="1662290004325" />
+    <state x="280" y="927" width="810" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.35.1198.1743@0.35.1198.1743" timestamp="1662319148740" />
     <state x="315" y="1039" width="624" height="405" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1662298531957">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
@@ -33,9 +92,33 @@
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
     <state x="392" y="997" width="434" height="490" key="FileChooserDialogImpl/0.35.1198.1743@0.35.1198.1743" timestamp="1662303973817" />
-    <state x="98" y="874" width="1022" height="736" key="SettingsEditor" timestamp="1662298048748">
+    <state width="764" height="258" key="GridCell.Tab.0.bottom" timestamp="1662321025797">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
-    <state x="98" y="874" width="1022" height="736" key="SettingsEditor/0.35.1198.1743@0.35.1198.1743" timestamp="1662298048748" />
+    <state width="764" height="258" key="GridCell.Tab.0.bottom/0.35.1198.1743@0.35.1198.1743" timestamp="1662321025797" />
+    <state width="764" height="258" key="GridCell.Tab.0.center" timestamp="1662321025778">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state width="764" height="258" key="GridCell.Tab.0.center/0.35.1198.1743@0.35.1198.1743" timestamp="1662321025778" />
+    <state width="764" height="258" key="GridCell.Tab.0.left" timestamp="1662321025770">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state width="764" height="258" key="GridCell.Tab.0.left/0.35.1198.1743@0.35.1198.1743" timestamp="1662321025770" />
+    <state width="764" height="258" key="GridCell.Tab.0.right" timestamp="1662321025780">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state width="764" height="258" key="GridCell.Tab.0.right/0.35.1198.1743@0.35.1198.1743" timestamp="1662321025780" />
+    <state width="257" height="520" key="HiddenNamespacesPopup" timestamp="1662319206589">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state width="257" height="520" key="HiddenNamespacesPopup/0.35.1198.1743@0.35.1198.1743" timestamp="1662319206589" />
+    <state x="98" y="874" width="1022" height="736" key="SettingsEditor" timestamp="1662320238891">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state x="98" y="874" width="1022" height="736" key="SettingsEditor/0.35.1198.1743@0.35.1198.1743" timestamp="1662320238891" />
+    <state x="272" y="958" width="672" height="678" key="search.everywhere.popup" timestamp="1662319355973">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state x="272" y="958" width="672" height="678" key="search.everywhere.popup/0.35.1198.1743@0.35.1198.1743" timestamp="1662319355973" />
   </component>
 </project>
