@@ -2,89 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078d4712-eeb7-47b5-b398-897a60866219" name="Default Changelist" comment="milestone: project-1- phpmailer setup">
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/InstalledVersions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/installed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/installed.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/composer/platform_check.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/COMMITMENT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/SECURITY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/VERSION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/get_oauth_token.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-af.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-ba.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-hi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-hy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-mg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-mn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr_latn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-tl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/src/Exception.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/src/OAuth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/src/OAuthTokenProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/src/PHPMailer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/src/POP3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/vendor/phpmailer/phpmailer/src/SMTP.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/otp.php" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/otp.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/phpmailer/mail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +50,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662632240432</updated>
-      <workItem from="1662632332685" duration="16050000" />
+      <workItem from="1662632332685" duration="20977000" />
+      <workItem from="1662729511501" duration="4870000" />
     </task>
     <task id="LOCAL-00001" summary="milestone: project-1-">
       <created>1662634730637</created>
@@ -147,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662638686288</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="milestone: project-1- phpmailer setup">
+      <created>1662652439031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662652439032</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +89,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="milestone: project-1- phpmailer setup" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="280" y="927" width="810" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1662319148741">
@@ -173,10 +99,10 @@
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
     <state x="315" y="1039" width="624" height="405" key="#com.intellij.fileTypes.FileTypeChooser/0.35.1198.1743@0.35.1198.1743" timestamp="1662298531957" />
-    <state x="30" y="763" width="1137" height="932" key="CommitChangelistDialog2" timestamp="1662651985350">
+    <state x="30" y="763" width="1137" height="932" key="CommitChangelistDialog2" timestamp="1662670411457">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
-    <state x="30" y="763" width="1137" height="932" key="CommitChangelistDialog2/0.35.1198.1743@0.35.1198.1743" timestamp="1662651985350" />
+    <state x="30" y="763" width="1137" height="932" key="CommitChangelistDialog2/0.35.1198.1743@0.35.1198.1743" timestamp="1662670411457" />
     <state x="392" y="997" width="434" height="490" key="FileChooserDialogImpl" timestamp="1662303973817">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
@@ -205,9 +131,9 @@
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
     <state x="98" y="874" width="1022" height="736" key="SettingsEditor/0.35.1198.1743@0.35.1198.1743" timestamp="1662640696742" />
-    <state x="272" y="958" width="672" height="678" key="search.everywhere.popup" timestamp="1662319355973">
+    <state x="272" y="958" width="672" height="678" key="search.everywhere.popup" timestamp="1662664092917">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
-    <state x="272" y="958" width="672" height="678" key="search.everywhere.popup/0.35.1198.1743@0.35.1198.1743" timestamp="1662319355973" />
+    <state x="272" y="958" width="672" height="678" key="search.everywhere.popup/0.35.1198.1743@0.35.1198.1743" timestamp="1662664092916" />
   </component>
 </project>
