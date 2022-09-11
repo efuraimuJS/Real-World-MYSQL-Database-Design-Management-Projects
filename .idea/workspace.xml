@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="078d4712-eeb7-47b5-b398-897a60866219" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/dashboard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/display_user.php" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1- Secure Registration System - MySQL, PHP, HTML, CSS, Bootstrap/display_user.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662632240432</updated>
       <workItem from="1662632332685" duration="20977000" />
-      <workItem from="1662729511501" duration="6782000" />
+      <workItem from="1662729511501" duration="13844000" />
     </task>
     <task id="LOCAL-00001" summary="milestone: project-1-">
       <created>1662634730637</created>
@@ -83,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662753398969</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="milestone: project-1- logout.php; dashboard.php">
+      <created>1662755285875</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662755285875</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,11 +102,16 @@
     <MESSAGE value="milestone: project-1- connection setup" />
     <MESSAGE value="milestone: project-1- phpmailer setup" />
     <MESSAGE value="milestone: project-1- login.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="milestone: project-1- login.php" />
+    <MESSAGE value="milestone: project-1- logout.php; dashboard.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="milestone: project-1- logout.php; dashboard.php" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="370" y="1004" width="458" height="451" key="#Web_Browsers" timestamp="1662918718697">
+      <screen x="0" y="35" width="1198" height="1743" />
+    </state>
+    <state x="370" y="1004" width="458" height="451" key="#Web_Browsers/0.35.1198.1743@0.35.1198.1743" timestamp="1662918718697" />
     <state x="280" y="927" width="810" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1662319148741">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
@@ -109,10 +120,10 @@
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
     <state x="315" y="1039" width="624" height="405" key="#com.intellij.fileTypes.FileTypeChooser/0.35.1198.1743@0.35.1198.1743" timestamp="1662298531957" />
-    <state x="30" y="763" width="1137" height="932" key="CommitChangelistDialog2" timestamp="1662753376765">
+    <state x="30" y="763" width="1137" height="932" key="CommitChangelistDialog2" timestamp="1662755279689">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
-    <state x="30" y="763" width="1137" height="932" key="CommitChangelistDialog2/0.35.1198.1743@0.35.1198.1743" timestamp="1662753376764" />
+    <state x="30" y="763" width="1137" height="932" key="CommitChangelistDialog2/0.35.1198.1743@0.35.1198.1743" timestamp="1662755279689" />
     <state x="392" y="997" width="434" height="490" key="FileChooserDialogImpl" timestamp="1662303973817">
       <screen x="0" y="35" width="1198" height="1743" />
     </state>
