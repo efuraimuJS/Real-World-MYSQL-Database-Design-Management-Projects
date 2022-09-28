@@ -1,6 +1,8 @@
 <?php
 // Start the session
 session_start();
+
+
 ?>
 <?php
 require "conn.php";
@@ -37,6 +39,7 @@ $data = $conn->query('select * from tasks');
             <th>#</th>
             <th>Task Name</th>
             <th>Action</th>
+            <th>Recreate</th>
         </tr>
         </thead>
         <tbody>
@@ -49,10 +52,9 @@ $data = $conn->query('select * from tasks');
             echo '<tr>';
             echo "<td>{$row->id}</td>";
             echo "<td>{$row->name}</td>";
-            echo "<td><a href=\"delete.php?del_id={$row->id}?>\" class=\"btn btn-danger\">delete</a></td>";
+            echo "<td><a href=\"delete.php?del_id={$row->id}\" class=\"btn btn-danger\">delete</a></td>";
+            echo "<td><a href=\"update.php?upd_id={$row->id}&task_bd={$row->name}\" class=\"btn btn-warning\">update</a></td>";
             echo '</tr>';
-
-
         }
         ?>
 
